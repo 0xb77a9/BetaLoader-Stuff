@@ -1,5 +1,5 @@
 # BetaLoader-Stuff
-HeadRipper Staff
+HeadRipper Stuff
 Hey
 if you are seeing this
 so please stop trying to crack my loader :)
