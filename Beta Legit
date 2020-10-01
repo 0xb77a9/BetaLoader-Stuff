@@ -1,0 +1,661 @@
+{
+  "Aimbot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Bone": 2,
+      "Enabled": true,
+      "Fov": 5.75,
+      "Key": 1,
+      "Min damage": 100,
+      "On key": true,
+      "Silent": true
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Enabled": true,
+      "Fov": 7.93,
+      "Key": 1,
+      "On key": true,
+      "Smooth": 3.61
+    },
+    {},
+    {},
+    {},
+    {
+      "Enabled": true,
+      "Fov": 15.04,
+      "Key": 1,
+      "On key": true,
+      "Scoped only": false,
+      "Silent": true
+    },
+    {},
+    {
+      "Enabled": true,
+      "Fov": 23.06,
+      "Ignore flash": true,
+      "Ignore smoke": true,
+      "Key": 1,
+      "Min damage": 95,
+      "On key": true,
+      "Scoped only": false,
+      "Silent": true
+    },
+    {},
+    {},
+    {
+      "Enabled": true,
+      "Fov": 4.18,
+      "Key": 1,
+      "On key": true,
+      "Silent": true
+    },
+    {},
+    {},
+    {
+      "Enabled": true,
+      "Fov": 7.93,
+      "Key": 1,
+      "On key": true,
+      "Smooth": 5.69
+    },
+    {}
+  ],
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Defusing": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {
+          "Color": [
+            0.39865547,
+            0.15587465,
+            0.9206349,
+            1.0
+          ],
+          "Enabled": true,
+          "Health based": true,
+          "Material": 1,
+          "Wireframe": true
+        },
+        {
+          "Enabled": true,
+          "Health based": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Planting": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Enabled": true,
+        "Flash Duration": {
+          "Enabled": true
+        },
+        "Font": {
+          "Name": "Arial"
+        },
+        "Health Bar": true,
+        "Name": {
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Enabled": true
+        },
+        "Text Cull Distance": 6.000001,
+        "Weapon": {
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "Misc": {
+    "Aspect Ratio": 1.61,
+    "Auto strafe": true,
+    "Bomb Damage Indicator": true,
+    "Bomb timer": {
+      "Color": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Enabled": true
+    },
+    "Bunny hop": true,
+    "Fake prime": true,
+    "Fast Stop": true,
+    "Fix movement": true,
+    "Grenade predict": true,
+    "Hit sound": 2,
+    "Kill sound": 2,
+    "Noscope crosshair": {
+      "Enabled": true
+    },
+    "Preserve Killfeed": {
+      "Enabled": true
+    },
+    "Radar hack": true,
+    "Reveal ranks": true,
+    "Water mark": true
+  },
+  "Skin changer": [
+    {
+      "Definition index": 42,
+      "Definition override": 500,
+      "Definition override vector index": 1,
+      "Enabled": true,
+      "Paint Kit": 639,
+      "Paint Kit vector index": 5,
+      "Quality": 12,
+      "Quality vector index": 10,
+      "Wear": 0.0
+    },
+    {
+      "Definition index": 5028,
+      "Definition override": 5030,
+      "Definition override vector index": 4,
+      "Definition vector index": 1,
+      "Enabled": true,
+      "Paint Kit": 10027,
+      "Paint Kit vector index": 4,
+      "Quality": 12,
+      "Quality vector index": 10
+    },
+    {
+      "Definition index": 7,
+      "Definition vector index": 2,
+      "Enabled": true,
+      "Paint Kit": 639,
+      "Paint Kit vector index": 5,
+      "Quality": 12,
+      "Quality vector index": 10
+    },
+    {},
+    {
+      "Definition index": 9,
+      "Definition vector index": 4,
+      "Enabled": true,
+      "Paint Kit": 344,
+      "Paint Kit vector index": 76,
+      "Quality": 12,
+      "Quality vector index": 10
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Sound": {
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Style": {
+    "Colors": {
+      "Border": [
+        0.5,
+        0.5,
+        0.5,
+        0.5
+      ],
+      "BorderShadow": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Button": [
+        0.35,
+        0.4,
+        0.61,
+        0.0
+      ],
+      "ButtonActive": [
+        0.46,
+        0.54,
+        0.8,
+        0.0
+      ],
+      "ButtonHovered": [
+        0.4,
+        0.48,
+        0.71,
+        0.0
+      ],
+      "CheckMark": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "ChildBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "DragDropTarget": [
+        1.0,
+        1.0,
+        0.0,
+        0.9
+      ],
+      "FrameBg": [
+        0.43,
+        0.43,
+        0.43,
+        0.39
+      ],
+      "FrameBgActive": [
+        0.4,
+        0.4,
+        0.4,
+        0.69
+      ],
+      "FrameBgHovered": [
+        0.47,
+        0.47,
+        0.47,
+        0.4
+      ],
+      "Header": [
+        0.4,
+        0.4,
+        0.4,
+        0.45
+      ],
+      "HeaderActive": [
+        0.4,
+        0.4,
+        0.4,
+        0.8
+      ],
+      "HeaderHovered": [
+        0.4,
+        0.4,
+        0.4,
+        0.8
+      ],
+      "MenuBarBg": [
+        0.4,
+        0.4,
+        0.55,
+        0.8
+      ],
+      "ModalWindowDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.35
+      ],
+      "NavHighlight": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "NavWindowingDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.2
+      ],
+      "NavWindowingHighlight": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ],
+      "PlotHistogram": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PlotHistogramHovered": [
+        1.0,
+        0.6,
+        0.0,
+        1.0
+      ],
+      "PlotLines": [
+        0.61,
+        0.61,
+        0.61,
+        1.0
+      ],
+      "PlotLinesHovered": [
+        1.0,
+        0.43,
+        0.35,
+        1.0
+      ],
+      "PopupBg": [
+        0.11,
+        0.11,
+        0.11,
+        0.92
+      ],
+      "ResizeGrip": [
+        1.0,
+        1.0,
+        1.0,
+        0.16
+      ],
+      "ResizeGripActive": [
+        0.78,
+        0.82,
+        1.0,
+        0.9
+      ],
+      "ResizeGripHovered": [
+        0.78,
+        0.82,
+        1.0,
+        0.6
+      ],
+      "ScrollbarBg": [
+        0.2,
+        0.25,
+        0.3,
+        0.0
+      ],
+      "ScrollbarGrab": [
+        0.4,
+        0.4,
+        0.8,
+        0.0
+      ],
+      "ScrollbarGrabActive": [
+        0.41,
+        0.39,
+        0.8,
+        0.0
+      ],
+      "ScrollbarGrabHovered": [
+        0.4,
+        0.4,
+        0.8,
+        0.0
+      ],
+      "Separator": [
+        0.5,
+        0.5,
+        0.5,
+        0.6
+      ],
+      "SeparatorActive": [
+        0.7,
+        0.7,
+        0.9,
+        1.0
+      ],
+      "SeparatorHovered": [
+        0.6,
+        0.6,
+        0.7,
+        1.0
+      ],
+      "SliderGrab": [
+        0.24,
+        0.52,
+        0.88,
+        1.0
+      ],
+      "SliderGrabActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "Tab": [
+        0.17999999,
+        0.34999996,
+        0.58000004,
+        0.862
+      ],
+      "TabActive": [
+        0.19999999,
+        0.40999997,
+        0.68,
+        1.0
+      ],
+      "TabHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "TabUnfocused": [
+        0.068,
+        0.10199998,
+        0.14800003,
+        0.9724
+      ],
+      "TabUnfocusedActive": [
+        0.13599998,
+        0.26199996,
+        0.424,
+        1.0
+      ],
+      "Text": [
+        0.9,
+        0.9,
+        0.9,
+        1.0
+      ],
+      "TextDisabled": [
+        0.6,
+        0.6,
+        0.6,
+        1.0
+      ],
+      "TextSelectedBg": [
+        0.0,
+        0.0,
+        1.0,
+        0.35
+      ],
+      "TitleBg": [
+        0.27,
+        0.27,
+        0.54,
+        0.83
+      ],
+      "TitleBgActive": [
+        0.32,
+        0.32,
+        0.63,
+        0.87
+      ],
+      "TitleBgCollapsed": [
+        0.4,
+        0.4,
+        0.8,
+        0.2
+      ],
+      "WindowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.4
+      ]
+    }
+  },
+  "Triggerbot": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Visuals": {
+    "Deagle spinner": true,
+    "Disable post-processing": true,
+    "No 3d sky": true,
+    "No blur": true,
+    "No fog": true,
+    "No grass": true,
+    "No shadows": true,
+    "No sleeves": true,
+    "No smoke": true,
+    "Show velocity": {
+      "Color": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "Enabled": true
+    },
+    "Show velocity Custom": true,
+    "Show velocity Pos X": 671,
+    "Show velocity Pos Y": 54,
+    "Thirdperson distance": 197,
+    "Wireframe smoke": true
+  }
+}
